@@ -8,7 +8,7 @@ and school counselors, built in C++.
 - Maryneil Co
 - Kerstein Ashby San Pedro
 - Chryzller John Suing
-- Jose Antonio C. Verano
+- Jose Antonio Verano
 
 ## 📖 About
 A full-featured appointment management system that allows 
