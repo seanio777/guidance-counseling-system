@@ -4,9 +4,11 @@ A console-based appointment scheduling system for students
 and school counselors, built in C++.
 
 ## 👥 Developers
+- Francien Nicole Ausan
+- Maryneil Co
+- Kerstein Ashby San Pedro
+- Chryzller John Suing
 - Jose Antonio C. Verano
-- [Teammate 2 Name]       ← add your groupmates
-- [Teammate 3 Name]
 
 ## 📖 About
 A full-featured appointment management system that allows 
